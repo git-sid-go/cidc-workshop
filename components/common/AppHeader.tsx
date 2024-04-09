@@ -10,7 +10,7 @@ export default function AppHeader() {
           <SignedIn>
             <Link
               className={buttonVariants({ variant: "ghost" })}
-              href="/dashboard"
+              href="/dashboard/1"
             >
               Home
             </Link>
